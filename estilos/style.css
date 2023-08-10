@@ -48,7 +48,7 @@ section.login {
 
 section.login > div.imagem {
  display: block;
- background: #F2F2F2 url(/imagens/fundo.jpg) no-repeat;
+ background: #F2F2F2 url(../imagens/fundo.jpg) no-repeat;
  background-size: cover;
  height: 200px;
 }
