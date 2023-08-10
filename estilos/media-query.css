@@ -11,7 +11,7 @@ grandes telas:
 
 @media screen and (min-width:768px) and (max-width:992px) {
     
-    body { /* media para tablet */
+    body { 
         background-image: linear-gradient(to top, #254559, #8AB0BF );
     }
 
@@ -34,7 +34,7 @@ grandes telas:
 
 @media screen and (min-width: 992px) {
     
-    body {  /* media desktop e telas grandes */
+    body {  
         background-image: linear-gradient(to top, #254559, #8AB0BF );
     }
     
